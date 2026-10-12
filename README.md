@@ -1,35 +1,32 @@
-<img 
-  src="https://github.com/ItaloCleones07/ItaloCleones07/blob/main/Banner.png?raw=true" 
-  width="100%" 
-/>
+# 💻 Olá! Eu sou o Ítalo Cleones
 
-<h1 align="center">💻 Olá! Eu sou o Ítalo Cleones</h1>
+🎓 Acadêmico de Engenharia da Computação  
+💻 Desenvolvedor de projetos pessoais em Python  
+⚙️ Interessado em automação de tarefas e desenvolvimento de software  
 
-<p align="center">
-  🎓 Acadêmico de Engenharia da Computação <br>
-  🚀 Em busca da primeira oportunidade na área de TI
-</p>
-
-<h2>🛠️ Tecnologias e Ferramentas</h2>
+## 🛠️ Tecnologias e Ferramentas
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h2>📚 Atualmente estudando</h2>
+## 🚀 Projetos
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+- **Automação com Python:** criação automática de diretórios organizados por ano, mês e dia, com notificações e tratamento de erros no Windows.
+- **Desenvolvimento Web:** estudos e projetos voltados à construção de páginas utilizando HTML, CSS e JavaScript.
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItaloCleones07&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItaloCleones07&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItaloCleones07&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItaloCleones07&theme=tokyonight" alt="Linguagens dos repositórios"/>
 </p>
 
+---
 
+<p align="center">
+  💡 Sempre aprendendo, desenvolvendo projetos e evoluindo na área de tecnologia.
+</p>
